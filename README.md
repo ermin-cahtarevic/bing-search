@@ -14,10 +14,6 @@ Clone the repository to your machine and cd into the directory
 $ git clone git@github.com:ermin-cahtarevic/bing-search.git
 $ cd bing-search
 ````
-Use the following command to start the rails server then visit: http://localhost:3000 to use the app
-````
-$ rails s
-````
 
 Tests have not been added yet, they are something that should be added eventually
 
